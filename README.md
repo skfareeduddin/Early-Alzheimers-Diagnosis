@@ -7,7 +7,7 @@ This project presents a deep learning approach for early diagnosis of Alzheimer'
 
 ## 📰 Publication
 
-📄 This project has been **published** in the *International Journal of Mechanical and Engineering Concepts (IJMEC)* under the title:  
+📄 This project has been **published** in the *International Journal of Multidisciplinary Engineering in Current Research (IJMEC)* under the title:  
 **“Early Alzheimer's Diagnosis Using Neural Networks”**
 
 ---
